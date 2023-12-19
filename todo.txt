@@ -1,0 +1,2 @@
+Todo list 
+study git and github
